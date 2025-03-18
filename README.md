@@ -14,11 +14,7 @@ Say "Help" or "Tell me your features" and sam will say all of its capabilities.
 
         git clone https://github.com/Shreyanshi777/Assistant/tree/main
 
-3. Install the Required Python Modules
-
-        pip install
-
-4. Run the Script
+2. Run the Script
 
         python sam.py
 
