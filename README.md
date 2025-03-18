@@ -12,7 +12,7 @@ Say "Help" or "Tell me your features" and sam will say all of its capabilities.
 
 1. Clone the Repository
 
-        git clone 
+        git clone https://github.com/Shreyanshi777/Assistant/tree/main
 
 3. Install the Required Python Modules
 
